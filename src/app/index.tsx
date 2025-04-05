@@ -13,6 +13,10 @@ return (
         <Text>Telefone: 97 000000000</Text>
         <Text>cpf: 000 000 000-00</Text>
 
+        <Text>Ola! Sou Mandagáscarzense tenho 200 anos, Meu papel no mundo é caça paca de baladeira. Nas horas vagas aposto em brigar de galo.
+
+        </Text>
+
 
 
 
