@@ -3,6 +3,7 @@ import { View, Text } from "react-native";
 export default function index () {
 return (
         <View>
+        <Text>Currículo para os caçadores de troféus</Text>
         <Text>Meu Cadastro</Text>
         <Text>Nome: Misael </Text> 
         <Text>idade: 200 Anos</Text>
@@ -13,9 +14,12 @@ return (
         <Text>Telefone: 97 000000000</Text>
         <Text>cpf: 000 000 000-00</Text>
 
-        <Text>Ola! Sou Mandagáscarzense tenho 200 anos, Meu papel no mundo é caça paca de baladeira. Nas horas vagas aposto em brigar de galo.
-
+        <Text>Ola! Sou Mandagáscarzense tenho 200 anos, Meu papel no mundo é caça paca de baladeira.
+             Nas horas vagas aposto em brigar de galo.
         </Text>
+
+        <Text>Hobby: Caça paca, Aposta em brigar de galo, Assiste brigar de alejado de muleta é
+            Assiste corridas do Teleton </Text>
 
 
 
