@@ -2,7 +2,7 @@ import { View, Text, StyleSheet } from "react-native";
 
 export default function index () {
 return (
-        <View>
+        <View style={style.container} >
         <Text style={style.title}>Currículo para os caçadores de troféus</Text>
         <Text style={style.title2}>Meu Cadastro</Text>
         <Text style={style.title3}>Nome: Misael </Text> 
@@ -30,6 +30,13 @@ return (
 }
 
 const style = StyleSheet.create({
+    container: {
+        flex:1,
+        justifyContent: "center",
+        alignContent: "center",
+        flexDirection: "row",
+
+    },
     title: {
         color: "red",
         fontSize: 22,
